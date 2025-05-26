@@ -141,4 +141,4 @@ Desenvolvido por [Ricardo Hamada](https://github.com/vthamada).
 Challenge 2 – Data Science
 [Alura + Oracle Next Education (ONE)](https://www.oracle.com/br/education/oracle-next-education/).
 
-📬 [LinkedIn](https://www.linkedin.com/in/vitor-hamada)
+📬 [LinkedIn](https://www.linkedin.com/in/ricardohamada)
